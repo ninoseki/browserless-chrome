@@ -1,0 +1,9 @@
+{
+  "name": "browserless-chrome",
+  "description": "A wrapper of browserless/chrome",
+  "keywords": ["Chrome", "Puppeteer"],
+  "website": "https://github.com/ninoseki/browserless-chrome",
+  "repository": "https://github.com/ninoseki/browserless-chrome",
+  "success_url": "/",
+  "stack": "container"
+}
